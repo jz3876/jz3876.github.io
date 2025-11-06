@@ -5,4 +5,5 @@ plotly
 # needed for plotly
 nbformat
 statsmodels
-git.blame.editorDecorationForeground
+jupyter-book==1.*
+
